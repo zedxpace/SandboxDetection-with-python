@@ -1,7 +1,6 @@
-# Blackhat-SandboxDetection
+# Blackhat-SandboxDetection <a href="https://www.codexpace.ml/2022/02/sandbox-detection.html" title="Go to project documentation"><img src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge" alt="view - Documentation"></a>
+</div>
 
-## code is explained in the below link 
-## https://www.codexpace.ml/2022/02/sandbox-detection.html
 Sandboxing :
 - It is a computer security term reffering to when a program in set aside from other progams in a seprate environment so that if errors or security issues occur ,those issues will not spread to other areas on the computer .
 - Programs are enabled in their own sequestered area ,where they can be worked on without posing any threat to other programs.
